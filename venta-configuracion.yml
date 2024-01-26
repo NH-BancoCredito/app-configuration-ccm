@@ -1,1 +1,1 @@
-dbVenta-cnx: server=DESKTOP-8R1GH5R-1; database=db_venta; integrated security=true;TrustServerCertificate=True
+dbVenta-cnx: server=DESKTOP-8R1GH5R; database=db_venta; integrated security=true;TrustServerCertificate=True
