@@ -1,3 +1,4 @@
 log-mongo-server-db: mongodb://localhost:27017/db-entregas-pedidos
-log-mongo-db-collection: Entrega
+log-mongo-db-collection1: Entrega
+log-mongo-db-collection2: EntregaDetalle
 
