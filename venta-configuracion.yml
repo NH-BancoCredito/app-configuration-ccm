@@ -1,6 +1,7 @@
 dbVenta-cnx: Server=tcp:pago-servicios-favoritos.database.windows.net,1433;Initial Catalog=pago-servicios-favoritos-db;Persist Security Info=False;User ID=bootcamp;Password=B00tcamp2022;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 url-base-servicio-stock: https://localhost:7065
 url-base-servicio-pagos: https://localhost:7068
+url-kafka-server: 127.0.0.1:9092 
 log-mongo-server-db: mongodb://localhost:27017/dbLogs
 log-mongo-db-collection: logs-ventas
 
