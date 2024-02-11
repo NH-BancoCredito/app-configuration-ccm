@@ -1,0 +1,3 @@
+log-mongo-server-db: mongodb://localhost:27017/db-entregas-pedidos
+log-mongo-db-collection: Entrega
+
